@@ -1,1 +1,1 @@
-![hi there](banner-with-text.png)
+![hi there](banner.png)
