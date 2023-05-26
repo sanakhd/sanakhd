@@ -1,3 +1,1 @@
-
-![Banner](banner.png)
-<!--- <p align="center">hi there</p> -->
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">hi there</div>
