@@ -1,2 +1,1 @@
-[![Banner](banner.png)](#)
-<center>hi there</center>
+![Banner with Text](banner-with-text.png)
